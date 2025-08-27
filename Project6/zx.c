@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <stdbool.h>
 #define MAX_STACK 100
 #define MAX_QUEUE 100
@@ -34,7 +34,7 @@ int main() {
 	Queue q;
 	init_stack(&s);
 	init_queue(&q);
-	int num;
+	int num;ㄴㅇㄴ
 	int koko;xxxxxxxxxxxxxxxxxxxxxxxx
 	int queue_element;
 	while (1)
