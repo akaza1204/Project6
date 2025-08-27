@@ -35,7 +35,7 @@ int main() {
 	init_stack(&s);
 	init_queue(&q);
 	int num;
-	int koko;
+	int koko;xxxxxxxxxxxxxxxxxxxxxxxx
 	int queue_element;
 	while (1)
 	{
